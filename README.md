@@ -6,6 +6,8 @@
 - LinkedIn: https://www.linkedin.com/in/nishitanand/
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=6bZx8DYAAAAJ
 
+I am interested in Software Engineering Roles and Machine Learning Research.
+
 I have Published two research papers on Computer Vision and Machine Learning.
 Have a look at them here-
 1) https://ieeexplore.ieee.org/document/9673225
