@@ -6,6 +6,10 @@
 - LinkedIn: https://www.linkedin.com/in/nishitanand/
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=6bZx8DYAAAAJ
 
+I have Published two research papers on Computer Vision and Machine Learning.
+Have a look at them here-
+1) https://ieeexplore.ieee.org/document/9673225
+2) https://drive.google.com/file/d/1_AOibOhSqrtIhG1m_DSC5LWUK7oHDd6p/view
 <!---
 nishitanand/nishitanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
