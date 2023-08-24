@@ -8,10 +8,11 @@
 
 I am interested in Software Engineering Roles and Machine Learning Engineer Roles.
 
-I have Published two research papers on Computer Vision and Machine Learning.
+I have Published three research papers on Computer Vision and Machine Learning.
 Have a look at them here-
 - SaveLives - A Real-Time Threat Detection System : https://ieeexplore.ieee.org/document/9786892
 - IsSwap: Deep Fake Detection : https://ieeexplore.ieee.org/document/9673225
+- A Hurst-based diffusion model using time series characteristics for influence maximization in social networks : https://onlinelibrary.wiley.com/doi/10.1111/exsy.13375
 <!---
 nishitanand/nishitanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
